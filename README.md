@@ -1,3 +1,3 @@
 # apnacollege-demo
-this is my git hub repo
-author-LIKHITHA.HM
+This is my GIT repo.
+Author-LIKHITHA.HM
